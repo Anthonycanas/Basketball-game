@@ -13,3 +13,6 @@ h2{ margin-top: 100px;
     }
 
 p{text-align:center;}
+
+#slide{width:200px; height:200px;
+flex; justify-content: center; align-items: center}
